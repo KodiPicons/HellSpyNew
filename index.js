@@ -55,4 +55,4 @@ builder.defineStreamHandler(async ({ id }) => {
   return { streams };
 });
 
-exports const module = builder.getInterface();
+exports.module = builder.getInterface();
