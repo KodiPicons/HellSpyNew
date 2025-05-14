@@ -1,0 +1,11 @@
+{
+  "id": "community.hellspy",
+  "version": "1.0.0",
+  "name": "Hellspy Addon",
+  "description": "Addon pre prehrávanie videí z hellspy.to",
+  "resources": ["stream"],
+  "types": ["movie"],
+  "catalogs": [],
+  "idPrefixes": ["tt"],
+  "logo": "https://hellspy.to/favicon.ico"
+}
